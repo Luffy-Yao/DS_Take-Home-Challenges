@@ -9,7 +9,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 1. [Conversion Rate](https://github.com/Luffy-Yao/DS_Challenges/blob/master/01.%20Conversion_Rate/Conversion_Rate.ipynb)
 
 
-Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
+Other useful resource: [https://github.com/JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home)
 
 
 
