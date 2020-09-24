@@ -17,4 +17,4 @@ Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](http
 
 
 
-Feel free to contact me via my linkedin profile https://www.linkedin.com/in/linxing-yao-594011134/, you can also leave me a message if you had any question regarding my solutions or just want to share with me your thought.
+Feel free to contact me via my [linkedin] https://www.linkedin.com/in/linxing-yao-594011134/, you can also leave me a message if you had any question regarding my solutions or just want to share with me your thought.
