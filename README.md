@@ -4,9 +4,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 
 ## Note:
 
-**Please don't contact me for the dataset.**
-
-This repository is only for self-learning purpose.  If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
+**This repository is only for self-learning purpose.  If you have better ideas of solutions I proposed, feel free to contact me by yaolinxing19945@gmail.com.**
 
 1. [Conversion Rate] (https://github.com/Luffy-Yao/DS_Challenges/blob/master/01.%20Conversion_Rate/Conversion_Rate.ipynb)
 
