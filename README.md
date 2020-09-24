@@ -8,7 +8,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 
 This repository is only for self-learning purpose.  If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
 
-1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb)
+1. [Conversion Rate](https://github.com/Luffy-Yao/DS_Challenges/blob/master/Conversion_Rate.ipynb)
 
 
 Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
