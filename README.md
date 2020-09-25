@@ -4,7 +4,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 
 ## Note:
 
-**This repository is only for self-learning purpose. Don't attempt to download for business purpose. Please respect the orignal work of author**
+**This repository is only for self-learning purpose. Don't attempt to download for business purpose. Please respect the orignal work of author.**
 
 1. [Conversion Rate](https://github.com/Luffy-Yao/DS_Challenges/blob/master/01.%20Conversion_Rate/Conversion_Rate.ipynb)
 2. [Spanish Translation A/B Test](https://github.com/Luffy-Yao/DS_Challenges/blob/master/02.%20Spanish%20A_B%20Test/Spanish_Translation.ipynb)
