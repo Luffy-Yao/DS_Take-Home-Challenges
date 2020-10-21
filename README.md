@@ -8,6 +8,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 
 1. [Conversion Rate](https://github.com/Luffy-Yao/DS_Challenges/blob/master/01.%20Conversion_Rate/Conversion_Rate.ipynb)
 2. [Spanish Translation A/B Test](https://github.com/Luffy-Yao/DS_Challenges/blob/master/02.%20Spanish%20A_B%20Test/Spanish_Translation.ipynb)
+6. [Pricing Test](https://github.com/Luffy-Yao/DS_Take-Home-Challenges/blob/master/06.%20Pricing%20Test/Pricing_Test.ipynb)
 
 
 Other useful resource: [https://github.com/JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home)
